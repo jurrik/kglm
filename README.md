@@ -2,7 +2,7 @@ KGLM - Kotlin OpenGL Mathematics Library
 ======================================
 
 A *conceptual* port of the [OpenGL Mathematics](http://glm.g-truc.net/) C++ 
-library (GLM). Inspired by [KGLM](https://github.com/jroyalty/jglm). I call this conceptual because a direct port of GLM to Kotlin wouldn't
+library (GLM). Inspired by [JGLM](https://github.com/jroyalty/jglm). I call this conceptual because a direct port of GLM to Kotlin wouldn't
 make a ton of sense.  So, instead, I've taken the concept of providing some of
 the functionality of [GLSL](http://www.opengl.org/documentation/glsl/) and
 the missing matrix capabilities of modern OpenGL and move those to Java.
